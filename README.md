@@ -23,7 +23,7 @@ Follow along using the [`package_example`](./package_example) folder, and
 compare against [`package_example_answer`](./package_example_answer) if you
 get stuck or want to see a filled-in reference.
 
-## Package layout
+## Repository layout
 
 - `slides.pdf` — the guide itself
 - `package_example/` — starting point for the exercise: `build_package_skeleton.R` and the functions to package (`funcoes/minhas_funcoes.R`)
